@@ -1,0 +1,268 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+html{
+    scroll-behavior: smooth;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.navigation{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: url(https://source.unsplash.com/1600x900/?laptop,coffee,home
+    ) no-repeat center center/cover white;
+    background-blend-mode: darken;
+    width: 100%;
+}
+.navbar{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    top: 0;
+    position: sticky;
+    width: 100%;
+}
+.kill:hover{
+    color: black;
+    border: 1px solid rgb(218, 218, 131);
+    padding: 5px;
+    border-radius: 50px;
+    background-color: rgb(218, 218, 131);
+}
+.logo{
+    width: 100px;
+    height: 100px;
+}
+.link{
+    list-style: none;
+}
+.kill{
+    text-decoration: none;
+    padding: 0 15px;
+}
+.kill:hover{
+    cursor: pointer;
+}
+.login{
+    padding: 10px;
+    background: none;
+    border: 1px solid black;
+    border-radius: 50px;
+    margin: 0 20px;
+}
+.you{
+    border: none;
+    background: white;
+}
+.val{
+    overflow-y: auto;
+}
+.login:hover{
+    cursor: pointer;
+    background-color: rgb(218, 218, 131);
+}
+.globe{
+    filter: invert(100%);
+    width: auto;
+    height: auto;
+    margin: auto;
+}
+.section{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 50px 0;
+}
+.head{
+    font-size: 40px;
+    font-weight: lighter;
+    padding: 25px 0;
+    padding-bottom: 0;
+}
+.strong{
+    font-size: 25px;
+    padding: 25px 0;
+}
+.start{
+    padding: 10px;
+    background-color: red;
+    color: white;
+    border: 1px solid white;
+    border-radius: 50px;
+}
+.start:hover{
+    cursor: pointer;
+}
+.second{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+}
+.sec{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 50px 0;
+}
+.theme{
+    padding-top: 25px;
+}
+.border{
+    width: 8%;
+    border: 1px solid red;
+    padding-top: 0;
+}
+.era{
+    max-width: 900px;
+    padding: 25px;
+}
+.third{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.images{
+    width: 100px;
+    margin: 0 5px;
+}
+.loop{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    padding: 50px;
+}
+.ban{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.bdr{
+    width: 60%;
+}
+.col{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 0 30px;
+}
+.were{
+    padding: 25px 0;
+    padding-top: 0;
+}
+.btn{
+    width: 200px;
+    margin: 25px 0;
+}
+.loops{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    padding: 0 50px;
+}
+.secs{
+    display: flex;
+    flex-direction: column;
+    align-items:flex-end;
+    justify-content: center;
+    margin: 50px 0;
+}
+.oops{
+    max-width: 500px;
+}
+.wool{
+    width: 8%;
+    border: 1px solid red;
+    padding-top: 0;
+    justify-content: right;
+}
+.mop{
+    font-weight: lighter;
+}
+.news{
+    padding: 0 20px;
+}
+.mock{
+    width: 750px;
+}
+.fab{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    padding: 50px;
+}
+.got{
+    padding: 25px;
+}
+.feat{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 25px;
+    margin: 0 25px;
+}
+.far{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.device{
+    height: 150px;
+}
+.social{
+    filter: invert(85%);
+}
+.footer{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+    padding: 50px;
+    background-color: gray;
+}
+.simples{
+    display: flex;
+    flex-direction: column;
+    padding: 25px;
+}
+.cool{
+    width: 100px;
+}
+.ex{
+    max-width: 500px;
+}
+.loose{
+    list-style: none;
+    padding: 10px 0;
+}
+.pose:hover{
+    color: black;
+    border: 1px solid rgb(218, 218, 131);
+    padding: 5px;
+    border-radius: 50px;
+    background-color: rgb(218, 218, 131);
+}
+.pose{
+    text-decoration: none;
+}
